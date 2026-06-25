@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Hash Table
@@ -40,6 +43,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -69,4 +73,8 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
