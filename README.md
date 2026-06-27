@@ -14,6 +14,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
@@ -28,6 +29,7 @@
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
@@ -61,6 +63,7 @@
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
