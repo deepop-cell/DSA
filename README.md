@@ -59,6 +59,7 @@
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
