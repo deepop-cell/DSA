@@ -60,6 +60,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -79,6 +80,7 @@
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -120,6 +122,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -127,6 +130,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +211,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
@@ -217,4 +222,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
