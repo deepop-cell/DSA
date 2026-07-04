@@ -108,6 +108,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -122,6 +123,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -175,6 +177,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -253,6 +256,7 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
@@ -282,4 +286,8 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
