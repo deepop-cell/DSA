@@ -163,6 +163,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
@@ -278,6 +279,7 @@
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
