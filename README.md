@@ -110,6 +110,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -175,6 +176,7 @@
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -268,6 +270,7 @@
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
