@@ -266,6 +266,7 @@
 | [0070-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepop-cell/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
