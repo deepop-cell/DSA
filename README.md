@@ -162,6 +162,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
@@ -279,6 +280,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
