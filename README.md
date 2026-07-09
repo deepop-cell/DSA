@@ -171,6 +171,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
@@ -298,6 +299,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -324,6 +326,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
