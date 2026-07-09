@@ -1,33 +1,27 @@
 class Solution {
 public:
-int dp[501][501];
-    int solve(string s1,string s2,int i,int j){
-        //base case.
-        if(i==s1.length()){
-            //insert krna padega 
-            return s2.length()-j;//itne elements add krne padenge
-        }
-        else if(j==s2.length()){
-            //delete krna padega
-            return s1.length()-i;//itne elements delete krne padenge/
-        }
-        else if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        else if(s1[i]==s2[j]){
-            //equal hai no operations needed mobve ahead in both.
-            return dp[i][j]=solve(s1,s2,i+1,j+1);
-        }
-        else{
-            //unequal hai to 3 chiz kr skye, jissse min aaye usko le liyooo.
-            int insert=1+solve(s1,s2,i,j+1);
-            int del=1+solve(s1,s2,i+1,j);
-            int replace = 1+ solve(s1,s2,i+1,j+1);
-            return dp[i][j]=min({insert,del,replace});
-        }
-    }
     int minDistance(string word1, string word2) {
-        memset(dp,-1,sizeof(dp));
-        return solve(word1,word2,0,0);
+        //bottom up approach......
+        //state defn dp[i][j] ka matlab hai no of operations to make word1 of i len to word2 of j len....
+        int n=word1.length();
+        int m=word2.length();
+        vector<vector<int>>dp(n+1,vector<int>(m+1));
+        for(int i=0;i<=n;i++){
+            for(int j=0;j<=m;j++){
+                if(i==0 || j==0){//ek ka b len 0 hai to bache hue ke jitne len ka delettion/insertion karna padega.
+                    dp[i][j]=i+j;
+                }
+                else if(word1[i-1]==word2[j-1]){
+                    //agar barabar hai to no operations needed chup chap dono mai aage badh jao,...
+                    dp[i][j]=dp[i-1][j-1];
+                }
+                else{
+                    //unequal hai to min of insert,del aur replace daldena . 1+ krke kyuki ek operation to kr rhee rhw ho..
+                    dp[i][j]=1+min({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]});
+                }
+            }
+        }
+        return dp[n][m];
+        
     }
 };
