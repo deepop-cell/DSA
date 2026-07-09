@@ -100,6 +100,7 @@
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/deepop-cell/DSA/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/deepop-cell/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
@@ -347,4 +348,12 @@
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
