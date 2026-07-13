@@ -1,55 +1,54 @@
 class Solution {
-    //bhai ye to basic dsu ka question hai/......
-    //== walo ko union krdo . first pass mai fir second pass mai != walo ka parents checkkaro .. agar barabar ho gya to return false. aur agar poora string iterate krlia to return true...
 public:
 vector<int>parent;
+vector<int>rank;
 int find(int x){
     if(parent[x]==x){
         return x;
     }
-    else {
-        return parent[x]=find(parent[x]);//path compression..
-    }
+    return parent[x]=find(parent[x]);//path compression
 }
-void Union(int x,int y,vector<int>&rank){
-    int p1=find(x);
-    int p2=find(y);
-    if(p1!=p2){
-        //parent alag alag hai tabhi union karoge 
+void Union(int x,int y,vector<int>&parent,vector<int>&rank){
+    if(find(x)!=find(y)){
+        int p1=find(x);
+        int p2=find(y);
         if(rank[p1]>rank[p2]){
             parent[p2]=p1;
         }
-        else if(rank[p1]<rank[p2]){
+        else if(rank[p2]>rank[p1]){
             parent[p1]=p2;
         }
         else{
-            //equal rank hai.
-            parent[p1]=p2;//koi b parent banado aur rnak badha do uski.
+            //equal ranks hai tooo,..
+            parent[p1]=p2;
             rank[p2]++;
         }
     }
 }
     bool equationsPossible(vector<string>& equations) {
+        rank.resize(26,1);
         parent.resize(26);
-        for(int i=0;i<26;i++){
-            parent[i]=i;//0 matlab a and so on 25 matlab z...
+        for(int i=0;i<25;i++){
+            //a is 0 and z is 25.
+            parent[i]=i;
         }
-        vector<int>rank(26,1);
-        for(auto &x:equations){
-            if(x[1]=='='){
-                Union(x[0]-'a',x[3]-'a',rank);
+        for(auto &eq:equations){
+            if(eq[1]=='='){
+                int u=eq[0]-'a';
+                int v=eq[3]-'a';
+                Union(u,v,parent,rank);
             }
-        }//pehle pass mai union krdo..
-        //ab inequality dekho
-        for(auto &x:equations){
-            if(x[1]=='!'){
-                if(find(x[3]-'a')==find(x[0]-'a')){
+        }
+        for(auto &eq:equations){
+            if(eq[1]=='!'){
+                int u=eq[0]-'a';
+                int v=eq[3]-'a';
+                if(find(u)==find(v)){
                     return false;
                 }
             }
         }
-
-    return true;
+        return true;
         
     }
 };
