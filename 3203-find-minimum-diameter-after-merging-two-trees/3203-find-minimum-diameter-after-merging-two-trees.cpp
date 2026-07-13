@@ -3,6 +3,7 @@ public:
 int diameter(vector<vector<int>>&edges,int node,int &level){
     int E=edges.size();
     int n=E+1;//no of nodes =edges.size()+1
+    queue<int>q;
     vector<vector<int>>adj(n);
     vector<bool>vis(n+1,false);
     for(int i=0;i<E;i++){
@@ -12,22 +13,21 @@ int diameter(vector<vector<int>>&edges,int node,int &level){
         adj[v].push_back(u);//undriected graph.
     }
     int farthestnode=node;
-    queue<int>q;
     q.push(node);
     vis[node]=true;
     while(!q.empty()){
         int sz=q.size();
         for(int i=0;i<sz;i++){
-            farthestnode=q.front();
+            int curr=q.front();
+            farthestnode=curr;
             q.pop();
-            for(auto &v:adj[farthestnode]){
+            for(auto &v:adj[curr]){
                 if(!vis[v]){
                     q.push(v);
                     vis[v]=true;
                 }
             }
-
-        }
+        }//ab ek poora level traverse ho gaya hai..
         if(!q.empty()){
             level++;
         }
