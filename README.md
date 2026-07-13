@@ -111,6 +111,7 @@
 | [0063-unique-paths-ii](https://github.com/deepop-cell/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/deepop-cell/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
@@ -147,6 +148,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
@@ -267,6 +271,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
