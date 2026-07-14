@@ -1,28 +1,23 @@
 class Solution {
 public:
     long long maxBalancedSubsequenceSum(vector<int>& nums) {
-        int n=nums.size();
-        map<int,long long>mp;
-        long long result=INT_MIN;
-        for(int i=0;i<n;i++){
+        long long res=INT_MIN;
+        map<int,long long>mp;//nums[i]-i-->sum..
+        for(int i=0;i<nums.size();i++){
             long long sum=nums[i];
-            auto it=mp.upper_bound(nums[i]-i);
+            auto it=mp.upper_bound(nums[i]-i);//ye nums[i]-i se just bada find krdega.
             if(it!=mp.begin()){
-                //>=nums[i]-i. milgaya hai.
-                it--;
+                it--;//ab nums[i]-i se chote ya barabar par khade hai hum.
                 sum+=it->second;
-                //entry bhi kardo
-
             }
-            mp[nums[i]-i]=max(mp[nums[i]-i],sum);//jo bhi bada ho usko lnea hai.
-            //entry ke baad hume wo nums[i]-i jiska value bada hia par sum chota hai wo useles hai use dlete krdo
-            it=mp.upper_bound(nums[i]-i);
-            while(it!=mp.end() && it->second<=sum){
-                mp.erase(it++);
+            mp[nums[i]-i]=max(sum,mp[nums[i]-i]);
+            //ab useless values ko hatana hai .
+            auto x=mp.upper_bound(nums[i]-i);
+            while(x!=mp.end() && sum>=x->second){
+                mp.erase(x++);
             }
-            //ab useless delete ho gye hai 
-            result=max(result,sum);
+            res=max(res,sum);
         }
-     return result;
-        }
+        return res;
+    }
 };
