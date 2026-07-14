@@ -12,7 +12,7 @@ ll MOD=1e9+7;
             ll leftmax=dp[0][col-1].first;
             ll leftmin=dp[0][col-1].second;
             dp[0][col].first=max(grid[0][col]*leftmax,grid[0][col]*leftmin);
-            dp[0][col].second=max(grid[0][col]*leftmax,grid[0][col]*leftmin);
+            dp[0][col].second=min(grid[0][col]*leftmax,grid[0][col]*leftmin);
         }
         for(int i=1;i<m;i++){
             ll upmax=dp[i-1][0].first;
