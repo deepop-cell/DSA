@@ -137,6 +137,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -247,6 +248,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
