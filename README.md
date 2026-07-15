@@ -114,6 +114,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/deepop-cell/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
@@ -193,6 +194,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
@@ -294,6 +297,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
