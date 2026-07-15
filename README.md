@@ -89,6 +89,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
@@ -195,6 +196,7 @@
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -215,6 +217,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
@@ -423,4 +426,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepop-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
