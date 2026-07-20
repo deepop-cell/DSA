@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/deepop-cell/DSA/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/deepop-cell/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
@@ -439,6 +440,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/deepop-cell/DSA/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/deepop-cell/DSA/tree/master/0031-next-permutation) |
 | [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
