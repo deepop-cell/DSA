@@ -11,7 +11,7 @@ bool vis[101][101];
             return matrix[i][j];
         }
         if(vis[i][j]){
-            return dp[i][j];
+            return dp[i][j];///if already visisted then return the value 
         }
         //ab dekho .
         int down=solve(i+1,j,matrix,n);
