@@ -138,6 +138,7 @@
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/deepop-cell/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -454,6 +455,7 @@
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
