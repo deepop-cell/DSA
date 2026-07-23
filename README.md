@@ -165,6 +165,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -282,6 +283,7 @@
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/deepop-cell/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -401,6 +403,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Eulerian Circuit
