@@ -2,6 +2,10 @@ class Solution {
 public:
 int dp[31][3001];
     int solve(int i,int sum,vector<int>&s){
+        if(sum==0){
+            //found.
+            return 0;
+        }
         if(i==s.size()){
             // u have reached the nd
             return 0;
