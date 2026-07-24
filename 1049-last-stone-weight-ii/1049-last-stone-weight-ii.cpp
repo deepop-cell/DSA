@@ -11,7 +11,7 @@ int dp[31][3001];
             return 0;
         }
         if(dp[i][sum]!=-1){
-            return dp[i][sum];
+            return dp[i][sum];//checking if this thing we have seen  previously.
         }
         int skip=solve(i+1,sum,s);
         //for take check
@@ -29,8 +29,9 @@ int dp[31][3001];
         }
         memset(dp,-1,sizeof(dp));
         int n=s.size();
+          //now chase totalsum/2;  
         int max_achievablesum=solve(0,totalsum/2,s);
         return (totalsum-max_achievablesum)-max_achievablesum;
-        //now chase totalsum/2;   
+       
     }
 };
