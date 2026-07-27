@@ -149,6 +149,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
@@ -493,6 +494,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
