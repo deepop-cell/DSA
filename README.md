@@ -148,6 +148,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
@@ -449,6 +450,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -495,6 +497,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
+| [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
