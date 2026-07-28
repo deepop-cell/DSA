@@ -129,6 +129,7 @@
 | [0046-permutations](https://github.com/deepop-cell/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/deepop-cell/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/deepop-cell/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
@@ -432,6 +433,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/deepop-cell/DSA/tree/master/0561-array-partition) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepop-cell/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/deepop-cell/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
