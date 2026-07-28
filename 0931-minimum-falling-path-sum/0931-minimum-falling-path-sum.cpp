@@ -2,30 +2,29 @@ class Solution {
 public:
 int dp[101][101];
 bool vis[101][101];
-    int solve(int i,int j,vector<vector<int>>& matrix,int n){
-        if(i>=n || j>=n || j<0){
+    int solve(int i,int j,vector<vector<int>>&matrix,int n){
+        if(i>=n || j<0 || j>=n){
             return 1e9;
         }
-        if(i==n-1){
-            //destination reached
+        if(i==n-1 ){
+            //manzil yani last row aa gai hai.
             return matrix[i][j];
         }
         if(vis[i][j]){
-            return dp[i][j];///if already visisted then return the value 
+            return dp[i][j];
         }
-        //ab dekho .
-        int down=solve(i+1,j,matrix,n);
-        int leftdown=solve(i+1,j-1,matrix,n);
-        int rightdown=solve(i+1,j+1,matrix,n);
+        //ab we have 3 options
+        int p1=solve(i+1,j,matrix,n);
+        int p2=solve(i+1,j+1,matrix,n);
+        int p3=solve(i+1,j-1,matrix,n);
         vis[i][j]=true;
-        return  dp[i][j]=matrix[i][j]+min({down,leftdown,rightdown});
+        return  dp[i][j]=min({p1,p2,p3})+matrix[i][j];
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        //so try starting from every top row as a start. since constraints are smaller we can do it..
+        int n=matrix.size();
         memset(dp,-1,sizeof(dp));
         memset(vis,false,sizeof(vis));
         int ans=INT_MAX;
-        int n=matrix.size();
         for(int j=0;j<n;j++){
             int x=solve(0,j,matrix,n);
             ans=min(ans,x);
@@ -33,4 +32,3 @@ bool vis[101][101];
         return ans;
     }
 };
-//see using dp[i][j]!=-1 fails in this problem because min path sum -1 bhi ho skta hai isliye we will use a seprate vis array too in this questimn
