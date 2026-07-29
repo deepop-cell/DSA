@@ -185,6 +185,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/deepop-cell/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -315,6 +316,7 @@
 | [1288-remove-covered-intervals](https://github.com/deepop-cell/DSA/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/deepop-cell/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -444,6 +446,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -532,6 +535,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/deepop-cell/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
