@@ -1,15 +1,17 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n=word.length();
-        if(n<=8){
-            return n;
+        unordered_map<int,int>mp;
+        int assignkey=2;
+        int result=0;
+        for(char &ch:word){
+            if(assignkey>9){
+                assignkey=2;//for comign back again at 2 after 0/
+            }
+            mp[assignkey]++;//assigning char at the key
+            result+=mp[assignkey];
+            assignkey++;//moving ahead.
         }
-        int pushes=0;
-        int k=n/8;
-        int rem=n%8;
-        pushes+=8*(k)*(k+1)/2;//sum of pushes for k groups of 8.
-        pushes+=(rem)*(k+1);
-        return pushes;
+        return result;
     }
 };
