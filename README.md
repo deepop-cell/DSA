@@ -226,6 +226,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -342,6 +343,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepop-cell/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepop-cell/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -388,6 +390,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepop-cell/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepop-cell/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -595,6 +599,7 @@
 | [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
