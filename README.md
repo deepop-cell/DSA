@@ -156,6 +156,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/deepop-cell/DSA/tree/master/0518-coin-change-ii) |
@@ -492,6 +493,7 @@
 | [0096-unique-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -530,6 +532,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepop-cell/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -569,6 +572,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -668,4 +672,8 @@
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
