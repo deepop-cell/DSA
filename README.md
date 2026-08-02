@@ -192,6 +192,7 @@
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/deepop-cell/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -507,6 +508,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -571,6 +573,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/deepop-cell/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -692,4 +695,5 @@
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
