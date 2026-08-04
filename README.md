@@ -703,4 +703,12 @@
 | [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+## Minimax
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
