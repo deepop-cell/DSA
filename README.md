@@ -185,6 +185,7 @@
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
+| [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/deepop-cell/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -401,6 +402,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
