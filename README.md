@@ -116,6 +116,7 @@
 | [0567-permutation-in-string](https://github.com/deepop-cell/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
+| [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
@@ -191,6 +192,7 @@
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/deepop-cell/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -289,6 +291,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/deepop-cell/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
@@ -523,6 +526,7 @@
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/deepop-cell/DSA/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
