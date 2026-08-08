@@ -112,6 +112,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepop-cell/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/deepop-cell/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/deepop-cell/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
@@ -176,6 +177,7 @@
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/deepop-cell/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/deepop-cell/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/deepop-cell/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/deepop-cell/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
