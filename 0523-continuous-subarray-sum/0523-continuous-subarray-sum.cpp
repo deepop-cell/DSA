@@ -17,7 +17,7 @@ public:
 
             }
             else{
-            mp[rem]=i;
+            mp[rem]=i;//if not foubd curr rem then only kro , aagr milgaya to wo door wale ko hee rehne do taki agar iske just next baad aae to uske lie len>2 ho.
             }
 
         }
