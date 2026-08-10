@@ -769,11 +769,13 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 ## Directed Acyclic Graph
 |  |
@@ -783,4 +785,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0523-continuous-subarray-sum) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
