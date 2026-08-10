@@ -4,8 +4,7 @@ bool dp[100001];
 bool vis[100001];
     bool solve(int n){
         if(n==0){
-            // no stones left for alice therefore she lost.
-            return false;
+            return false;//mere lie ab bacha he nhi hai to mai har jaunga
         }
         if(n==1){
             return true;
@@ -14,17 +13,16 @@ bool vis[100001];
             return dp[n];
         }
         for(int k=1;k*k<=n;k++){
-            if(!solve(n-k*k)){
-                vis[n]=true;
-               return dp[n]= true;//maine k*k elements utha lie ab p2 ki baari aur agar uska false aa gya to mai jit jaunga
+            if(!solve(n- k*k)){//samne wala har rha hai to tum jeet jaoge.
+            vis[n]=true;
+                return dp[n]=true;
             }
         }
         vis[n]=true;
-        return dp[n]=false;//wo for loop mai kabhi hara hee nhi matlab mai har gaya 
+        return dp[n]=false;
     }
     bool winnerSquareGame(int n) {
-    memset(dp,false,sizeof(dp));
-    memset(vis,false,sizeof(vis));
-    return solve(n);        
+        memset(dp,false,sizeof(dp));
+        return solve(n);
     }
 };
