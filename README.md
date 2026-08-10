@@ -225,6 +225,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/deepop-cell/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -564,6 +565,7 @@
 | [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -636,6 +638,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -764,6 +767,7 @@
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 ## Minimax
 |  |
