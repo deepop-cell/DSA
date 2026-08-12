@@ -17,7 +17,6 @@ public:
         queue<string>q;
         q.push("0000");
         int level=0;
-        bool reached=false;
         while(!q.empty()){
             int sz=q.size();//size  of current level.
             for(int i=0;i<sz;i++){
