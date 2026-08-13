@@ -351,6 +351,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
@@ -581,6 +582,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/deepop-cell/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0070-climbing-stairs) |
@@ -790,6 +792,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
