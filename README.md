@@ -15,6 +15,7 @@
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
@@ -50,6 +51,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepop-cell/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
