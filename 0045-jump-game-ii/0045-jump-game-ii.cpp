@@ -13,9 +13,9 @@ int dp[10001];
         }
         int res=1e9;
         for(int k=1;k<=nums[idx];k++){
-            res=min(res,solve(idx+k,nums));
+            res=min(res,1+solve(idx+k,nums));
         }
-        return dp[idx]=1+res;//ek jump to kroge hee na out of the k loop options
+        return dp[idx]=res;//ek jump to kroge hee na out of the k loop options
     }
     int jump(vector<int>& nums) {
         memset(dp,-1,sizeof(dp));
