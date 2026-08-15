@@ -20,6 +20,7 @@ bool vis[201][201];
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         memset(dp,-1,sizeof(dp));
+        memset(vis,false,sizeof(vis));
         return solve(0,0,triangle);
     }
 };
