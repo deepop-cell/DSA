@@ -199,6 +199,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/deepop-cell/DSA/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/deepop-cell/DSA/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
@@ -451,6 +452,7 @@
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/deepop-cell/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/deepop-cell/DSA/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/deepop-cell/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
@@ -661,6 +663,7 @@
 | [0174-dungeon-game](https://github.com/deepop-cell/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/deepop-cell/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/deepop-cell/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
