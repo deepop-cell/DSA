@@ -227,6 +227,7 @@
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
@@ -692,6 +693,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/deepop-cell/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
