@@ -25,7 +25,7 @@ bool vis[18];
         return (skip || take);
     }
     bool canPartitionKSubsets(vector<int>& nums, int k) {
-        memset(vis,false,sizeof(false));
+        memset(vis,false,sizeof(vis));
         int total=0;
         for(int &x:nums){
             total+=x;
