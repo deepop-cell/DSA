@@ -373,6 +373,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
@@ -649,6 +650,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/deepop-cell/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepop-cell/DSA/tree/master/0062-unique-paths) |
@@ -781,6 +783,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/deepop-cell/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/deepop-cell/DSA/tree/master/0046-permutations) |
@@ -893,4 +896,8 @@
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
