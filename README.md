@@ -210,6 +210,7 @@
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
@@ -691,6 +692,7 @@
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/deepop-cell/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
@@ -812,6 +814,7 @@
 | [0090-subsets-ii](https://github.com/deepop-cell/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/deepop-cell/DSA/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -842,6 +845,7 @@
 | [0078-subsets](https://github.com/deepop-cell/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepop-cell/DSA/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
+| [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -932,5 +936,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
