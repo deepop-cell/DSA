@@ -417,6 +417,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepop-cell/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1987-number-of-unique-good-subsequences](https://github.com/deepop-cell/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
@@ -747,6 +748,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepop-cell/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1987-number-of-unique-good-subsequences](https://github.com/deepop-cell/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
