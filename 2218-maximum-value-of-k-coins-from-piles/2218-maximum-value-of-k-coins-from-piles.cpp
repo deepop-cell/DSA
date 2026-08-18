@@ -1,29 +1,30 @@
 class Solution {
 public:
-int dp[1001][2001];
-    int solve(int i,vector<vector<int>>&piles,int k){
+int dp[1009][2009];
+    int solve(int i,int k,vector<vector<int>>&piles){
         if(i==piles.size()){
+            return 0;
+        }
+        if(k==0){
             return 0;
         }
         if(dp[i][k]!=-1){
             return dp[i][k];
         }
-
-        //skip karo ye current pile.
-        int nottake=solve(i+1,piles,k);
-        //take current pile and tryt getting first 1,2,..k from current pile
+        //now we have option, ya to current pile ko skip karo , ya to usse ek ya do ya k uth alo/
+        int skip=solve(i+1,k,piles);
+        //now for take, what we can do is take 1 ,2 ,3 .. min(piles[i].size,k) piles.
         int sum=0;
-        int maxres=0;
+        int maxres=-1;
         int x=min((int)piles[i].size(),k);
         for(int j=0;j<x;j++){
             sum+=piles[i][j];
-            int money=sum+solve(i+1,piles,k-(j+1));
-            maxres=max(maxres,money);
+            maxres=max(maxres,sum+solve(i+1,k-(j+1),piles));
         }
-        return  dp[i][k]=max(nottake,maxres);
+        return dp[i][k]=max(skip,maxres);
     }
     int maxValueOfCoins(vector<vector<int>>& piles, int k) {
         memset(dp,-1,sizeof(dp));
-        return solve(0,piles,k);
+        return solve(0,k,piles);
     }
 };
