@@ -392,6 +392,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/deepop-cell/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/deepop-cell/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -687,6 +688,7 @@
 | [0072-edit-distance](https://github.com/deepop-cell/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/deepop-cell/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/deepop-cell/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/deepop-cell/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/deepop-cell/DSA/tree/master/0174-dungeon-game) |
