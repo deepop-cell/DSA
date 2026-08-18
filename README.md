@@ -408,6 +408,7 @@
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/deepop-cell/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/deepop-cell/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepop-cell/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -726,6 +727,7 @@
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/deepop-cell/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/deepop-cell/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/deepop-cell/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/deepop-cell/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
