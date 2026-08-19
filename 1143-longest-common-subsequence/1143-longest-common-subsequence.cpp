@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string text1, string text2) {
-        //state definiton dp[i][j]= longest commmon susbeuqnece len of s1 of len i and s2 of len j
-        int n=text1.length();
-        int m=text2.length();
-        vector<vector<int>>dp(n+1,vector<int>(m+1));
-        //now fill this dp 2d array and return dp[n][m];
-        for(int i=0;i<=n;i++){
-            for(int j=0;j<=m;j++){
-                if(i==0 || j==0){
-                    dp[i][j]=0;
-                }
-                else{
-                    if(text1[i-1]==text2[j-1]){
-                        //equal hai to increment len by 1 because common hai and move in both 
-                        dp[i][j]=1+dp[i-1][j-1];
-                    }
-                    else{
-                        //unequal hai to move towards the side jo maximum length de sake asani  se,,
-                        dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
-                    }
-                }
-            }
+int dp[1002][1002];
+    int solve(int i,int j,string &s1,string&s2){
+        if(i>=s1.length() || j>=s2.length()){
+            return 0;
         }
-        return dp[n][m];
+        if(dp[i][j]!=-1){
+            return dp[i][j];
+        }
+        //now we have options to take current one or not.
+        if(s1[i]==s2[j]){
+            return dp[i][j]=1+solve(i+1,j+1,s1,s2);
+        }
+        else{
+            return dp[i][j]=max(solve(i+1,j,s1,s2),solve(i,j+1,s1,s2));
+        }
+        return 0;
+        
+    }
+    int longestCommonSubsequence(string text1, string text2) {
+        memset(dp,-1,sizeof(dp));
+        return solve(0,0,text1,text2);
+        
     }
 };
