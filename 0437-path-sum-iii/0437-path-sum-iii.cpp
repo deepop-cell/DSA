@@ -1,45 +1,24 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+//second way to do it.(o(n)).
 class Solution {
-    typedef long long ll;
 public:
-    
-    ll solve(TreeNode* root,ll sum){
-        if(root==NULL){
-            return 0;
-        }
-        int count=(sum==0)?1:0;
-        ll go_left=0;
-        //now decide.
-        if(root->left){
-            go_left=solve(root->left,sum-root->left->val);
-        }
-        ll go_right=0;
-        if(root->right){
-            go_right=solve(root->right,sum-root->right->val);
-        }
-        return count+ go_left+go_right;
+void dfs(TreeNode* root,unordered_map<long long ,int>&mp,long long currsum,int targetsum,int &paths){
+    if(!root){
+        return;
     }
-    void dfs(TreeNode* root,int&ans,ll sum){
-        if(!root){
-            return;
-        }
-        ans+=solve(root,sum-root->val);
-        dfs(root->left,ans,sum);
-        dfs(root->right,ans,sum);
+    currsum+=root->val;
+    if(mp.find(currsum-targetsum)!=mp.end()){
+        paths+=mp[currsum-targetsum];
     }
+        mp[currsum]++;
+        dfs(root->left,mp,currsum,targetsum,paths);
+        dfs(root->right,mp,currsum,targetsum,paths);
+        mp[currsum]--;//baxktracking.(undo).
+}
     int pathSum(TreeNode* root, int targetSum) {
         int ways=0;
-        dfs(root,ways,targetSum);
+        unordered_map<long long,int>mp;
+        mp[0]=1;
+        dfs(root,mp,0,targetSum,ways);
         return ways;
     }
 };
