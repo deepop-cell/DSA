@@ -296,6 +296,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -389,6 +390,7 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
@@ -699,6 +701,7 @@
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/deepop-cell/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
@@ -791,6 +794,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepop-cell/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1987-number-of-unique-good-subsequences](https://github.com/deepop-cell/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -943,6 +947,7 @@
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/deepop-cell/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -952,6 +957,7 @@
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -960,6 +966,7 @@
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
