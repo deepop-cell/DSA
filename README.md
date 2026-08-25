@@ -195,6 +195,7 @@
 | [0040-combination-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/deepop-cell/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deepop-cell/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deepop-cell/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
@@ -459,6 +460,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/deepop-cell/DSA/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/deepop-cell/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
@@ -875,6 +877,7 @@
 | [0039-combination-sum](https://github.com/deepop-cell/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/deepop-cell/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deepop-cell/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/deepop-cell/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepop-cell/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0113-path-sum-ii) |
