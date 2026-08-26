@@ -448,6 +448,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepop-cell/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepop-cell/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -678,6 +679,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepop-cell/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepop-cell/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
