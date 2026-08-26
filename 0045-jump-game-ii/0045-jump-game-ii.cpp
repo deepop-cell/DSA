@@ -1,21 +1,23 @@
 class Solution {
 public:
 int dp[10001];
-    int solve(int idx,vector<int>&nums){
-        if(idx==nums.size()-1){
-            return 0;//manjil aa gai ab aur kya hee jump kroge
+    int solve(int i,vector<int>&nums){
+        if(i==nums.size()-1){
+            //we have reached .
+            return 0;
         }
-        if(idx>=nums.size()){
-            return 1e9;//return so big that this case gets ignored by the min function
+        if(i>=nums.size()){
+            return 1e9;
         }
-        if(dp[idx]!=-1){
-            return dp[idx];
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        int res=1e9;
-        for(int k=1;k<=nums[idx];k++){
-            res=min(res,1+solve(idx+k,nums));
+        //now we have options to take any jumps from 1 to nums[i;]
+        long long min_ways=INT_MAX;
+        for(int j=1;j<=nums[i];j++){
+           min_ways=min(min_ways,(long long)1+solve(i+j,nums));
         }
-        return dp[idx]=res;//ek jump to kroge hee na out of the k loop options
+        return dp[i]=min_ways;
     }
     int jump(vector<int>& nums) {
         memset(dp,-1,sizeof(dp));
