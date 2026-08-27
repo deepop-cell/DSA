@@ -147,6 +147,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepop-cell/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/deepop-cell/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/deepop-cell/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepop-cell/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -702,6 +703,7 @@
 | [0062-unique-paths](https://github.com/deepop-cell/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
@@ -758,6 +760,7 @@
 | [0198-house-robber](https://github.com/deepop-cell/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepop-cell/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/deepop-cell/DSA/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
@@ -856,6 +859,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
