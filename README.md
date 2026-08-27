@@ -227,6 +227,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepop-cell/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -472,6 +473,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/deepop-cell/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -509,6 +511,7 @@
 | [0074-search-a-2d-matrix](https://github.com/deepop-cell/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/deepop-cell/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/deepop-cell/DSA/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
@@ -540,6 +543,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepop-cell/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/deepop-cell/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
@@ -862,6 +866,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
