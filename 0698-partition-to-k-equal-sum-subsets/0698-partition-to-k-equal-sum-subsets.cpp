@@ -1,27 +1,27 @@
 class Solution {
 public:
-bool vis[20];
-    int solve(int i,int target,int currsum,int k,vector<int>&nums){
+bool taken[17];
+    bool solve(int i,int k,int currsum,vector<int>&nums,int t){
         if(k==1){
             return true;
+        }
+        if(currsum==t){
+            return solve(0,k-1,0,nums,t);
         }
         if(i>=nums.size()){
             return false;
         }
-        if(currsum==target){
-            return solve(0,target,0,k-1,nums);
-        }
         bool take=false;
-        if( !vis[i]&& currsum+nums[i]<=target){
-            vis[i]=true;
-            take=solve(i+1,target,currsum+nums[i],k,nums);
-            vis[i]=false;//backtracking.
+        if( !taken[i] && currsum+nums[i]<=t){
+            taken[i]=true;
+            take=solve(i+1,k,currsum+nums[i],nums,t);
+            taken[i]=false;
+
         }
-        bool skip=solve(i+1,target,currsum,k,nums);
+        bool skip=solve(i+1,k,currsum,nums,t);
         return (take || skip);
     }
     bool canPartitionKSubsets(vector<int>& nums, int k) {
-        memset(vis,false,sizeof(vis));
         int total=0;
         for(int &x:nums){
             total+=x;
@@ -29,7 +29,7 @@ bool vis[20];
         if(total%k!=0){
             return false;
         }
-        int chase=total/k;
-        return solve(0,chase,0,k,nums);
+        int target=total/k;
+        return solve(0,k,0,nums,target);
     }
 };
