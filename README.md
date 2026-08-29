@@ -39,6 +39,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
@@ -79,6 +80,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -133,6 +135,7 @@
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/deepop-cell/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -299,6 +302,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/deepop-cell/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -541,6 +545,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/deepop-cell/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/deepop-cell/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
