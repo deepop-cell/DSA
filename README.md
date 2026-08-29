@@ -46,6 +46,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -90,6 +91,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -116,6 +118,7 @@
 | [1615-maximal-network-rank](https://github.com/deepop-cell/DSA/tree/master/1615-maximal-network-rank) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
@@ -1059,6 +1063,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Pigeonhole Principle
 |  |
 | ------- |
