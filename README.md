@@ -19,6 +19,7 @@
 | [0419-battleships-in-a-board](https://github.com/deepop-cell/DSA/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/deepop-cell/DSA/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
@@ -65,6 +66,7 @@
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/deepop-cell/DSA/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
@@ -624,6 +626,7 @@
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepop-cell/DSA/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/deepop-cell/DSA/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -672,6 +675,7 @@
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepop-cell/DSA/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/deepop-cell/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
