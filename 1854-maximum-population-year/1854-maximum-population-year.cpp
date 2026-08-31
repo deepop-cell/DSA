@@ -1,26 +1,27 @@
 class Solution {
 public:
-//Ye hai difference array technique.
+//LINE SWEEP TECHNIQUE
     int maximumPopulation(vector<vector<int>>& logs) {
-    vector<int>population(2051,0);
-    for( auto &x:logs){
-        int start=x[0];
-        int end=x[1]-1;
-        population[start]+=1;
-        population[end+1]-=1;
-    }    
-    //now do csum.
-    int maxpop_year=-1;
-    int csum=0;
-    int maxpop=INT_MIN;
-    for(int i=0;i<=2050;i++){
-        csum+=population[i];
-        population[i]=csum;
-        if(csum>maxpop){
-            maxpop=csum;
-            maxpop_year=i;
+        vector<pair<int,int>>events;
+        for(auto &x:logs){
+            int start=x[0];
+            int end=x[1];
+            events.push_back({start,1});
+            events.push_back({end,-1});
         }
-    }
-    return maxpop_year;
+        sort(events.begin(),events.end());
+        int currpop=0;
+        int maxpop=INT_MIN;
+        int maxyear=-1;
+        for(int i=0;i<events.size();i++){
+          int year=events[i].first;
+          int delta=events[i].second;
+          currpop+=delta;
+          if(currpop>maxpop){
+            maxpop=currpop;
+            maxyear=year;
+          }
+        }
+        return maxyear;
     }
 };
