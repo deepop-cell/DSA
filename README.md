@@ -613,6 +613,7 @@
 | [0002-add-two-numbers](https://github.com/deepop-cell/DSA/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepop-cell/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
 | ------- |
