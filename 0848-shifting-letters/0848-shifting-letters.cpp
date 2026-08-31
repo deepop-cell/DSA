@@ -1,27 +1,26 @@
 class Solution {
 public:
-typedef long long ll;
     string shiftingLetters(string s, vector<int>& shifts) {
-        int n=shifts.size();
-        vector<ll>res(n,0);
-        for(int i=0;i<n;i++){
+        int n=s.length();
+        vector<long long>diff(n,0);
+        for(int i=0;i<shifts.size();i++){
             int start=0;
-            int end=i+1;
-            ll sum=shifts[i];
-            res[start]+=sum;
-            if(end<n){
-                res[end]-=sum;
+            int end=i;
+            int val=shifts[i];
+            diff[start]+=val;
+            if(end+1<n){
+                diff[end+1]-=val;
             }
         }
-        ll csum=0;
+        long long csum=0;
         for(int i=0;i<n;i++){
-            csum+=res[i];
-            res[i]=csum;
+            csum+=diff[i];
+            diff[i]=csum;
         }
+        ///now diff i means net shift in the ith character.
         for(int i=0;i<n;i++){
-            s[i]='a'+(s[i]-'a'+res[i])%26;
+            s[i]='a'+(s[i]-'a'+(diff[i]%26))%26;
         }
         return s;
-        
     }
 };
