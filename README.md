@@ -55,6 +55,7 @@
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +379,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepop-cell/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -657,6 +659,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -798,6 +801,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepop-cell/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepop-cell/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepop-cell/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepop-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepop-cell/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -892,6 +896,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepop-cell/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
@@ -1024,6 +1029,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepop-cell/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
