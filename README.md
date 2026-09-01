@@ -302,6 +302,7 @@
 | [1035-uncrossed-lines](https://github.com/deepop-cell/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/deepop-cell/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/deepop-cell/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -441,6 +442,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -531,6 +533,7 @@
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
+| [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/deepop-cell/DSA/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/deepop-cell/DSA/tree/master/1329-sort-the-matrix-diagonally) |
@@ -951,6 +954,7 @@
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/deepop-cell/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1057,6 +1061,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
+| [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepop-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
