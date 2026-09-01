@@ -195,6 +195,7 @@
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -342,6 +343,7 @@
 | [1854-maximum-population-year](https://github.com/deepop-cell/DSA/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
@@ -449,6 +451,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/deepop-cell/DSA/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
+| [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
@@ -545,6 +548,7 @@
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
