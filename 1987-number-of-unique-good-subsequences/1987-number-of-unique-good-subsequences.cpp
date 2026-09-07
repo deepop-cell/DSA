@@ -7,11 +7,11 @@ int MOD=1e9+7;
         bool has0=false;
         for(char &ch:binary){
             if(ch=='1'){
-                endw1=(endw0+endw1+1)%MOD;
+                endw1=(endw0+endw1+1)%MOD;//+1 becuase of the fact that a new subseq starting with 1 can also be made.
             }
             else{
                 has0=true;
-                endw0=(endw0+endw1)%MOD;
+                endw0=(endw0+endw1)%MOD;//no +1 becsude trailing 0s not allowed
             }
         }
         return (has0)? (endw0+endw1+1)%MOD:(endw0+endw1)%MOD;
