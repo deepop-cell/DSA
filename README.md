@@ -221,6 +221,7 @@
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/deepop-cell/DSA/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepop-cell/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepop-cell/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepop-cell/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -398,6 +399,7 @@
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepop-cell/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepop-cell/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepop-cell/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -658,6 +660,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepop-cell/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
