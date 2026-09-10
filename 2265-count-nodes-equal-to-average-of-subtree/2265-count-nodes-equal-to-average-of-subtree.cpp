@@ -11,49 +11,26 @@
  */
 class Solution {
 public:
-void bfs(TreeNode* root,int &sum,int &count){
-    queue<TreeNode*>q;
-    q.push(root);
-    while(!q.empty()){
-        int sz=q.size();
-        count+=sz;
-        for(int i=0;i<sz;i++){
-            TreeNode* curr=q.front();
-            q.pop();
-            sum+=curr->val;
-            if(curr->left){
-                q.push(curr->left);
-            }
-            if(curr->right){
-                q.push(curr->right);
-            }
+    pair<int,int> dfs(TreeNode* root,int &ans){
+        if(!root){
+            return {0,0};
         }
-    }
-}
-    int averageOfSubtree(TreeNode* root) {
-        queue<TreeNode*>q;
-        q.push(root);
-        int ans=0;
-    while(!q.empty()){
-        int sz=q.size();
-        for(int i=0;i<sz;i++){
-            TreeNode* curr=q.front();
-            q.pop();
-            int sum=0;
-            int count=0;
-            bfs(curr,sum,count);
-            if(sum/count==curr->val){
+        auto left=dfs(root->left,ans);
+        auto right=dfs(root->right,ans);
+        int leftsum=left.first;
+        int leftcount=left.second;
+        int rightsum=right.first;
+        int rightcount=right.second;
+        int sum=root->val+rightsum+leftsum;
+        int total=leftcount+rightcount+1;
+        if(sum/total==root->val){
             ans++;
-            }
-            sum+=curr->val;
-            if(curr->left){
-                q.push(curr->left);
-            }
-            if(curr->right){
-                q.push(curr->right);
-            }
         }
+        return {sum,total};
     }
-    return ans;
+    int averageOfSubtree(TreeNode* root) {
+       int ans=0;
+       dfs(root,ans);
+       return ans;
     }
 };
