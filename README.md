@@ -51,6 +51,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepop-cell/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -715,6 +716,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepop-cell/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -766,6 +768,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepop-cell/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
 | ------- |
