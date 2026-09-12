@@ -40,6 +40,7 @@
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
@@ -715,6 +716,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/deepop-cell/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -770,6 +772,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
