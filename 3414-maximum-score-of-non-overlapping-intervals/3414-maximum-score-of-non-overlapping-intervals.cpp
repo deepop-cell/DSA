@@ -1,7 +1,6 @@
 class Solution {
 public:
 typedef long long ll;
-
 struct x{
     ll sum=-1;//for memoization check..
     vector<int>idx;
