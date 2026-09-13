@@ -1288,4 +1288,8 @@
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
