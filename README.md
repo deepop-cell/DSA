@@ -257,6 +257,7 @@
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/deepop-cell/DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/deepop-cell/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/deepop-cell/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/deepop-cell/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -616,6 +617,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepop-cell/DSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/deepop-cell/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/deepop-cell/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepop-cell/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/deepop-cell/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -1154,6 +1156,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/deepop-cell/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
