@@ -1253,6 +1253,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1292,4 +1293,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
