@@ -14,7 +14,7 @@ public:
        bool Z=false;
        bool UFFF=false;
        if(max(A,C)<min(B,D)){
-        Z=true;;
+        Z=true;
        }
        if(max(a,c)<min(b,d)){
         UFFF=true;
