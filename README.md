@@ -406,6 +406,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepop-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/deepop-cell/DSA/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1002,6 +1003,7 @@
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepop-cell/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
