@@ -398,6 +398,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/deepop-cell/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepop-cell/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepop-cell/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -998,6 +999,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepop-cell/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1259,6 +1261,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1302,6 +1305,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Database
 |  |
 | ------- |
