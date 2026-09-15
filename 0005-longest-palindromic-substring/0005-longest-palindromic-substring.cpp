@@ -1,38 +1,36 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-    int n=s.length();
-    vector<vector<int>>dp(n+1,vector<int>(n+1));
-    int maxl=0;
-    int startingpoint=-1;
-    //state defn: dp[i][j]=true matlab substr from i to j is a palindrome...
-    for(int L=1;L<=n;L++){
-        for(int i=0;i<n-L+1;i++){
-            int j=L+i-1;
-            if(L==1){
-                dp[i][j]=true;
-            }
-            else if(L==2){
-                if(s[i]==s[j]){
-                    dp[i][j]=true;
+        int n=s.length();
+        //we will use our blueprint.
+        //dp[i][j]= substring from i to j is a palindorme or not,
+        vector<vector<bool>>dp(n,vector<bool>(n,false));
+        int maxlen=0;
+        string ans="";
+        for(int L=1;L<=n;L++){
+            //try eevry len
+            for(int i=0;i<n+1-L;i++){
+                //tryt eevery starting point.
+                int j=L+i-1;
+                if(L==1){
+                    dp[i][j]=true;//1 len ka to hmesha pal hota h
                 }
-            }
-            else{
-                //L>2..
-                if(s[i]==s[j] && dp[i+1][j-1]){
-                    dp[i][j]=true;
+                else if(L==2){
+                    dp[i][j]=(s[i]==s[j]);
                 }
-            }
-            //ab dekho,..
-            if(dp[i][j]){
-                int len=j-i+1;
-                if(len>maxl){
-                    maxl=len;
-                    startingpoint=i;
+                else{
+                    dp[i][j]=(s[i]==s[j] && dp[i+1][j-1]);
+                }
+                if(dp[i][j]){
+                    if(L>maxlen){
+                        maxlen=L;
+                        ans=s.substr(i,L);
+                    }
                 }
             }
         }
-    }
-    return s.substr(startingpoint,maxl);
+        //now we have filled the dp table.
+        return ans;
+
     }
 };
