@@ -1,27 +1,31 @@
 class Solution {
 public:
-int dp[1005][1005];
-    int solve(int i,int j,string&s1,string&s2,int n,int m){
-        if(i>=n || j>=m){
-            return 0;
+int lcs(string s1,string s2){
+    int n=s1.length();
+     vector<vector<int>>dp(n+1,vector<int>(n+1));
+            for(int i=0;i<=n;i++){
+            for(int j=0;j<=n;j++){
+                if(i==0 || j==0){
+                    dp[i][j]=0;
+                }
+                else{
+                    if(s1[i-1]==s2[j-1]){
+                        dp[i][j]=1+dp[i-1][j-1];
+                    }
+                    else{
+                        dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                    }
+                }
+            }
         }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        //now if current char mathes then move ahead in both
-        if(s1[i]==s2[j]){
-          return dp[i][j]= 1+solve(i+1,j+1,s1,s2,n,m);
-        }
-        else{
-          return dp[i][j]= max(solve(i+1,j,s1,s2,n,m),solve(i,j+1,s1,s2,n,m));
-        }
-    }
+        return dp[n][n];
+}
     int longestPalindromeSubseq(string s) {
-        int n=s.length();
-        //its just lcs of s and revs
-        string revs=s;
-        reverse(revs.begin(),revs.end());
-        memset(dp,-1,sizeof(dp));
-        return solve(0,0,s,revs,n,n);
+        //lcs of s and rev s
+        //state def dp[i][j] = lcs of s1 of len i and s2 of len j.
+        string x=s;
+        reverse(x.begin(),x.end());
+    int ans=lcs(s,x);
+    return ans;
     }
 };
