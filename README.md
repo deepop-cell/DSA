@@ -193,6 +193,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/deepop-cell/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/deepop-cell/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/deepop-cell/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/deepop-cell/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -529,6 +530,7 @@
 | [0115-distinct-subsequences](https://github.com/deepop-cell/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/deepop-cell/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/deepop-cell/DSA/tree/master/0433-minimum-genetic-mutation) |
