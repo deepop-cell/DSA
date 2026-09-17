@@ -3,8 +3,7 @@ public:
     int minSumOfLengths(vector<int>& nums, int target) {
     int n=nums.size();
     priority_queue<int>pq;
-    vector<pair<int,int>>subarrays;
-    vector<bool>marked(n,false);
+    vector<pair<int,int>>subarrays;//stores the starting and ending of each subarray which equals sum target;
     int l=0;
     long long sum=0;
     for(int r=0;r<n;r++){
