@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
         int n=s.length();
-        if(s.length()<10){
+        if(n<10){
             return {};
         }
         unordered_map<string,int>mp;
