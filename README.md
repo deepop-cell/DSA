@@ -399,6 +399,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/deepop-cell/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -512,6 +513,7 @@
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/deepop-cell/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -699,6 +701,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -877,6 +880,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepop-cell/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepop-cell/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
