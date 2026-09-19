@@ -1,65 +1,57 @@
 class Solution {
 public:
-    void dfsfill(int node,vector<vector<int>>&adj,vector<bool>&vis,stack<int>&st){
-        vis[node]=true;
-        for(auto &v:adj[node]){
-            if(!vis[v]){
-                dfsfill(v,adj,vis,st);
-            }
-        }
-        st.push(node);//pehle baccho ko dal lo fir maa ko dalna.
-    }
-    void makescc(int node,vector<vector<int>>&adj,vector<bool>&vis,vector<int>&currscc){
-        vis[node]=true;
-        currscc.push_back(node);
-        for(auto &v:adj[node]){
-            if(!vis[v]){
-                makescc(v,adj,vis,currscc);
-            }
+void dfsfill(int node,vector<vector<int>>&adj,vector<bool>&vis,stack<int>&st){
+    vis[node]=true;
+    for(auto &v:adj[node]){
+        if(!vis[v]){
+            dfsfill(v,adj,vis,st);
         }
     }
+    st.push(node);//pehle baccho ko dalo fir maa ko dalna.
+}
+void dfsmakescc(int node,vector<int>&currscc,vector<vector<int>>&adj,vector<bool>&vis){
+    vis[node]=true;
+    currscc.push_back(node);
+    for(auto &v:adj[node]){
+        if(!vis[v]){
+            dfsmakescc(v,currscc,adj,vis);
+        }
+    }
+}
     int longestCycle(vector<int>& edges) {
-        //we havr to find the length of the largest SCC.
+        stack<int>st;
         int n=edges.size();
         vector<vector<int>>adj(n);
         for(int i=0;i<n;i++){
-            if(edges[i]!=-1){
-           adj[i].push_back(edges[i]);
+            if(edges[i]==-1){
+                continue;
             }
-
+            adj[i].push_back(edges[i]);
         }
-        //now make toposort orderf.
-        stack<int>st;
         vector<bool>vis(n,false);
         for(int u=0;u<n;u++){
-            if(!vis[u]){
-                dfsfill(u,adj,vis,st);
-            }
+            if(vis[u])continue;
+            dfsfill(u,adj,vis,st);
         }
-
-        fill(vis.begin(),vis.end(),false);
-        int mx=-1;
+        //make rev adj.
         vector<vector<int>>revadj(n);
-        for(int u=0;u<n;u++){
-            for(auto &v:adj[u]){
-                revadj[v].push_back(u);
+        for(int i=0;i<n;i++){
+            if(edges[i]==-1){
+                continue;
             }
+            revadj[edges[i]].push_back(i);
         }
-        //now our stack has the topoorder.
-        //now do  dfs on the reversed edges graph in topoorde.r
+        vector<bool>vis2(n,false);
+        int mx=1;
         while(!st.empty()){
             int curr=st.top();
             st.pop();
-            if(!vis[curr]){
+            if(!vis2[curr]){
                 vector<int>currscc;
-                makescc(curr,revadj,vis,currscc);
-                //now currscc is filled with the scc startinf from curr.
-                if(currscc.size()>1){
+                dfsmakescc(curr,currscc,revadj,vis2);
                 mx=max(mx,(int)currscc.size());
-                }
-
             }
         }
-        return mx;
+        return (mx==1)?-1:mx;
     }
 };
