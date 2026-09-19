@@ -380,6 +380,7 @@
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepop-cell/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/deepop-cell/DSA/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
@@ -917,6 +918,7 @@
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/deepop-cell/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/deepop-cell/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
