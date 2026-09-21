@@ -229,6 +229,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepop-cell/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1695-maximum-erasure-value](https://github.com/deepop-cell/DSA/tree/master/1695-maximum-erasure-value) |
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -387,6 +388,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/deepop-cell/DSA/tree/master/1690-stone-game-vii) |
+| [1695-maximum-erasure-value](https://github.com/deepop-cell/DSA/tree/master/1695-maximum-erasure-value) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1710-maximum-units-on-a-truck](https://github.com/deepop-cell/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -899,6 +901,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/deepop-cell/DSA/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepop-cell/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
