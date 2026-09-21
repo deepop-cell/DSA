@@ -515,6 +515,7 @@
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/deepop-cell/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/deepop-cell/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepop-cell/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -574,6 +575,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/deepop-cell/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -708,6 +710,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepop-cell/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -891,6 +894,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/deepop-cell/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
