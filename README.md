@@ -12,6 +12,7 @@
 | [0112-path-sum](https://github.com/deepop-cell/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepop-cell/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/deepop-cell/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
@@ -79,6 +80,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepop-cell/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepop-cell/DSA/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/deepop-cell/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0226-invert-binary-tree) |
@@ -748,6 +750,7 @@
 | [0002-add-two-numbers](https://github.com/deepop-cell/DSA/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepop-cell/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepop-cell/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
@@ -767,6 +770,7 @@
 | [0112-path-sum](https://github.com/deepop-cell/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepop-cell/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/deepop-cell/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0226-invert-binary-tree) |
@@ -830,6 +834,7 @@
 | [0112-path-sum](https://github.com/deepop-cell/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/deepop-cell/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepop-cell/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/deepop-cell/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0226-invert-binary-tree) |
