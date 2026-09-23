@@ -24,26 +24,20 @@ public:
         }
         queue<Node*>q;
         q.push(root);
-        vector<vector<Node*>>ans;
         while(!q.empty()){
-            vector<Node*>level;
             int sz=q.size();
             for(int i=0;i<sz;i++){
                 Node* curr=q.front();
-                level.push_back(q.front());
                 q.pop();
+                if(i!=sz-1){
+                    curr->next=q.front();
+                }
                 if(curr->left){
                     q.push(curr->left);
                 }
                 if(curr->right){
                     q.push(curr->right);
                 }
-            }
-            ans.push_back(level);
-        }
-        for(int i=0;i<ans.size();i++){
-            for(int j=0;j<ans[i].size()-1;j++){
-                ans[i][j]->next=ans[i][j+1];
             }
         }
         return root;
