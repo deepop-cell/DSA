@@ -51,6 +51,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
@@ -115,6 +116,7 @@
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/deepop-cell/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
@@ -152,6 +154,7 @@
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepop-cell/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1465,4 +1468,8 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
