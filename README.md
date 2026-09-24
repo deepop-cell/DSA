@@ -47,6 +47,7 @@
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -111,6 +112,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -798,6 +800,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -864,6 +867,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
