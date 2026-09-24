@@ -127,6 +127,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepop-cell/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/deepop-cell/DSA/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/deepop-cell/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -241,6 +242,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/deepop-cell/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/deepop-cell/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/deepop-cell/DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepop-cell/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -391,6 +393,7 @@
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/deepop-cell/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/deepop-cell/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/deepop-cell/DSA/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
