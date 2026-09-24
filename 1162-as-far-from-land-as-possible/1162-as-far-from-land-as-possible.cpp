@@ -2,6 +2,7 @@ class Solution {
 public:
 vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1}};
     int maxDistance(vector<vector<int>>& grid) {
+        //manhattan dist is essentially dist found by bfs baically so its the biggest hint here ki hume bfs use krna chiye.
         //start multi source bfs from all land cells .
         int n=grid.size();
         int lc=0;
