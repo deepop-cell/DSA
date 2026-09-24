@@ -119,6 +119,7 @@
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/deepop-cell/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -372,6 +373,7 @@
 | [1109-corporate-flight-bookings](https://github.com/deepop-cell/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1207-unique-number-of-occurrences](https://github.com/deepop-cell/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
@@ -696,6 +698,7 @@
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/deepop-cell/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -1074,6 +1077,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/deepop-cell/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/deepop-cell/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepop-cell/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
