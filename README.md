@@ -120,6 +120,7 @@
 | [0967-numbers-with-same-consecutive-differences](https://github.com/deepop-cell/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -380,6 +381,7 @@
 | [1035-uncrossed-lines](https://github.com/deepop-cell/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/deepop-cell/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/deepop-cell/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -713,6 +715,7 @@
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
