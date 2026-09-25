@@ -21,6 +21,7 @@
 | [0257-binary-tree-paths](https://github.com/deepop-cell/DSA/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepop-cell/DSA/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepop-cell/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/deepop-cell/DSA/tree/master/0419-battleships-in-a-board) |
@@ -92,6 +93,7 @@
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/deepop-cell/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepop-cell/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/deepop-cell/DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepop-cell/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
@@ -320,6 +324,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
@@ -592,6 +597,7 @@
 | [0290-word-pattern](https://github.com/deepop-cell/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/deepop-cell/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepop-cell/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
@@ -1181,6 +1187,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1487,4 +1494,12 @@
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
