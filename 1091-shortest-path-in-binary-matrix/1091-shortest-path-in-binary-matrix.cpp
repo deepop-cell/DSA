@@ -8,8 +8,7 @@ vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1},{1,1},{-1,1},{1,-1},{-1
         }
         queue<pair<int,int>>q;
         q.push({0,0});
-        vector<vector<bool>>vis(n,vector<bool>(n,false));
-        vis[0][0]=true;
+        grid[0][0]=1;//new way of marking vis
         int dist=1;
         while(!q.empty()){
             int sz=q.size();
@@ -26,12 +25,12 @@ vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1},{1,1},{-1,1},{1,-1},{-1
                 for(auto &dir:directions){
                     int new_r=r+dir[0];
                     int new_c=c+dir[1];
-                    if(new_r<0 || new_r>=n || new_c<0 || new_c>=n || vis[new_r][new_c] || grid[new_r][new_c]==1){
+                    if(new_r<0 || new_r>=n || new_c<0 || new_c>=n ||  grid[new_r][new_c]==1){
                         continue;
                     }
                     else{
                         q.push({new_r,new_c});
-                        vis[new_r][new_c]=true;
+                        grid[new_r][new_c]=1;
                     }
                 }
 
