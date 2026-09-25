@@ -122,6 +122,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepop-cell/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -246,6 +247,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/deepop-cell/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -619,6 +621,7 @@
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/deepop-cell/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -665,6 +668,7 @@
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/deepop-cell/DSA/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/deepop-cell/DSA/tree/master/1329-sort-the-matrix-diagonally) |
@@ -1212,6 +1216,7 @@
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepop-cell/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1239,6 +1244,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepop-cell/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/deepop-cell/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
