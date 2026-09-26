@@ -151,6 +151,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
@@ -1143,6 +1144,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepop-cell/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1168,6 +1170,7 @@
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/deepop-cell/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Two Pointers
 |  |
 | ------- |
