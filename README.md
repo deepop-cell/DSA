@@ -138,6 +138,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepop-cell/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -259,6 +260,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepop-cell/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepop-cell/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/deepop-cell/DSA/tree/master/1695-maximum-erasure-value) |
@@ -424,6 +426,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepop-cell/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepop-cell/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepop-cell/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
