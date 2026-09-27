@@ -631,6 +631,7 @@
 | [1092-shortest-common-supersequence](https://github.com/deepop-cell/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/deepop-cell/DSA/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepop-cell/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepop-cell/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1230,6 +1231,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/deepop-cell/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepop-cell/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1408,6 +1410,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepop-cell/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bitmask
 |  |
 | ------- |
