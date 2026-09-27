@@ -153,6 +153,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepop-cell/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -187,6 +188,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -479,6 +481,7 @@
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/deepop-cell/DSA/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
