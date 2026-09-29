@@ -1021,6 +1021,7 @@
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/deepop-cell/DSA/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepop-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/deepop-cell/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/deepop-cell/DSA/tree/master/0836-rectangle-overlap) |
@@ -1424,6 +1425,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/deepop-cell/DSA/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/deepop-cell/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deepop-cell/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
