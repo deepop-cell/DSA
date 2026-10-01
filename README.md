@@ -608,6 +608,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepop-cell/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/deepop-cell/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/deepop-cell/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/deepop-cell/DSA/tree/master/0049-group-anagrams) |
@@ -1248,6 +1249,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepop-cell/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepop-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -1437,6 +1439,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepop-cell/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/deepop-cell/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/deepop-cell/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepop-cell/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
