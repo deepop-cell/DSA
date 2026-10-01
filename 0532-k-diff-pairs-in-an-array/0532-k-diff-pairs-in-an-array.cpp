@@ -1,7 +1,6 @@
 class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
-      sort(nums.begin(),nums.end());
       unordered_map<int,int>mp;
       for(int &x:nums){
         mp[x]++;
