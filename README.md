@@ -384,6 +384,7 @@
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
@@ -698,6 +699,7 @@
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/deepop-cell/DSA/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
@@ -799,6 +801,7 @@
 | [0731-my-calendar-ii](https://github.com/deepop-cell/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepop-cell/DSA/tree/master/0732-my-calendar-iii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepop-cell/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1217,6 +1220,7 @@
 | [0647-palindromic-substrings](https://github.com/deepop-cell/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepop-cell/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepop-cell/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
