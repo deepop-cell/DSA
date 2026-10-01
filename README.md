@@ -785,6 +785,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/deepop-cell/DSA/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/deepop-cell/DSA/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/deepop-cell/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deepop-cell/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deepop-cell/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -1025,6 +1026,7 @@
 | [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0441-arranging-coins](https://github.com/deepop-cell/DSA/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0523-continuous-subarray-sum) |
