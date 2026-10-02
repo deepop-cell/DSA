@@ -142,6 +142,7 @@
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepop-cell/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -180,6 +181,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/deepop-cell/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepop-cell/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1615-maximal-network-rank](https://github.com/deepop-cell/DSA/tree/master/1615-maximal-network-rank) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -463,6 +465,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepop-cell/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
