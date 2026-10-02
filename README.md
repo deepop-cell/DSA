@@ -65,6 +65,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -142,6 +143,7 @@
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepop-cell/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -463,6 +465,7 @@
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepop-cell/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -773,6 +776,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepop-cell/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
