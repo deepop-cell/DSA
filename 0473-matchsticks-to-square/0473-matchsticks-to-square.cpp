@@ -1,41 +1,39 @@
 class Solution {
 public:
-bool vis[16];
-
-    bool solve(int i,int sum,int chase, int k,vector<int>&nums){
+    bool solve(int i,long long sum,int k,vector<int>&nums,vector<bool>&vis,long long chase){
         if(k==1){
             return true;
         }
         if(i>=nums.size()){
             return false;
         }
-        if(sum==chase){
-            return solve(0,0,chase,k-1,nums);
+        if(sum==0){
+            return solve(0,chase,k-1,nums,vis,chase);
         }
-        //now we have option to either take current or not take it.
         bool take=false;
-        if( !vis[i] && nums[i]+sum<=chase){
-            vis[i]=true;//this index is taken while filling current bucket(subset).
-            take=solve(i+1,sum+nums[i],chase,k,nums);
-            vis[i]=false;///backtrackng.(jo kia h use undo b krna hai)
-
+        if(!vis[i] && sum-nums[i]>=0){
+            vis[i]=true;
+            take=solve(i+1,sum-nums[i],k,nums,vis,chase);
+            vis[i]=false;
         }
-        bool skip=solve(i+1,sum,chase,k,nums);
-        return (skip || take);
-        
+        if(take){
+            return true;
+        }
+        bool skip=solve(i+1,sum,k,nums,vis,chase);
+        if(skip){
+            return true;
+        }
+        return false;
     }
-    bool makesquare(vector<int>& matchsticks) {
-        //if we can split array in 4 equal parts ,i mean 4 susbest having equal sum , then we can make s square out of them.
-        memset(vis,false,sizeof(vis));
-        int total=0;
-        for(int &x:matchsticks){
-            total+=x;
+    bool makesquare(vector<int>& nums) {
+        vector<bool>vis(nums.size(),false);
+        long long sum=0;
+        for(int &x:nums){
+            sum+=x;
         }
-        int chase=total/4;
-        if(total%4!=0){
+        if(sum%4!=0){
             return false;
         }
-        int y=4;
-        return solve(0,0,chase,y,matchsticks);
+        return solve(0,sum/4,4,nums,vis,sum/4);
     }
 };
