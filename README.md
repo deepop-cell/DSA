@@ -984,6 +984,7 @@
 | [0055-jump-game](https://github.com/deepop-cell/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/deepop-cell/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/deepop-cell/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/deepop-cell/DSA/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepop-cell/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1139,6 +1140,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/deepop-cell/DSA/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
@@ -1231,6 +1233,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/deepop-cell/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -1376,6 +1379,7 @@
 | [0090-subsets-ii](https://github.com/deepop-cell/DSA/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepop-cell/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
