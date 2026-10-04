@@ -1054,6 +1054,7 @@
 | [0096-unique-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/deepop-cell/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/deepop-cell/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/deepop-cell/DSA/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
@@ -1132,6 +1133,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepop-cell/DSA/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/deepop-cell/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
