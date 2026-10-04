@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int dp[101];
-    int solve(vector<int>&nums,int i){
-        if(i<0 || i>=nums.size()){
-            return 0;//out of  bounds.
+int dp[101];
+    int solve(int i,vector<int>&nums){
+        if(i>=nums.size()){
+            return 0;
         }
         if(dp[i]!=-1){
-            //means ki ye index ke liye solve ho rakha hai.
             return dp[i];
         }
-        int steal=nums[i]+solve(nums,i+2);//ye ghar chura liya to iska jod lo aur agla ghar skip krke uska next churao
-        int skip=solve(nums,i+1);//kuch nhi churaya to agla ghar churalo 
-        return dp[i]=max(steal,skip);//returning value and storing in dp.
+        //now at current index we have two choices. ya to isse rob kro ya to mat kro
+        int rob=nums[i]+solve(i+2,nums);
+        int skip=solve(i+1,nums);
+        return dp[i]=max(rob,skip);
     }
-
     int rob(vector<int>& nums) {
-        int n=nums.size();
         memset(dp,-1,sizeof(dp));
-        
-        return solve(nums,0);        
+        return solve(0,nums);
     }
 };
