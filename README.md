@@ -349,6 +349,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepop-cell/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/deepop-cell/DSA/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
@@ -1056,6 +1057,7 @@
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/deepop-cell/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/deepop-cell/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/deepop-cell/DSA/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
@@ -1136,6 +1138,7 @@
 | [0343-integer-break](https://github.com/deepop-cell/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/deepop-cell/DSA/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/deepop-cell/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/deepop-cell/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/deepop-cell/DSA/tree/master/0413-arithmetic-slices) |
