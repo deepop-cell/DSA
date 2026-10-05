@@ -394,6 +394,7 @@
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0813-largest-sum-of-averages](https://github.com/deepop-cell/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
@@ -590,6 +591,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/deepop-cell/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/deepop-cell/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepop-cell/DSA/tree/master/0732-my-calendar-iii) |
+| [0813-largest-sum-of-averages](https://github.com/deepop-cell/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -1169,6 +1171,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/deepop-cell/DSA/tree/master/0790-domino-and-tromino-tiling) |
+| [0813-largest-sum-of-averages](https://github.com/deepop-cell/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/deepop-cell/DSA/tree/master/0879-profitable-schemes) |
