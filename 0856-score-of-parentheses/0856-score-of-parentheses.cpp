@@ -6,10 +6,10 @@ public:
             if (s[i] == '(') {
             depth++;
             } else {
-                --depth;
                 if(s[i-1]=='('){
-                    score+=1<<depth;
+                    score+=1<<(depth-1);
                 }
+                depth--;
             }
         }
         return score;
