@@ -863,6 +863,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepop-cell/DSA/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepop-cell/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepop-cell/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepop-cell/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -1259,6 +1260,7 @@
 | [0005-longest-palindromic-substring](https://github.com/deepop-cell/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/deepop-cell/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/deepop-cell/DSA/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepop-cell/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/deepop-cell/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/deepop-cell/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/deepop-cell/DSA/tree/master/0633-sum-of-square-numbers) |
