@@ -19,6 +19,7 @@
 | [0226-invert-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepop-cell/DSA/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/deepop-cell/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepop-cell/DSA/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
@@ -96,6 +97,7 @@
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/deepop-cell/DSA/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/deepop-cell/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/deepop-cell/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepop-cell/DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/deepop-cell/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
