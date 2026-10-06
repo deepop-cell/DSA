@@ -287,6 +287,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/deepop-cell/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/deepop-cell/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -491,6 +492,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/deepop-cell/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -746,6 +748,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepop-cell/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepop-cell/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1291,6 +1294,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
