@@ -283,6 +283,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepop-cell/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -479,6 +480,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepop-cell/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -740,6 +742,7 @@
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepop-cell/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1282,6 +1285,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
