@@ -46,6 +46,7 @@
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deepop-cell/DSA/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/deepop-cell/DSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -909,6 +910,7 @@
 | [0814-binary-tree-pruning](https://github.com/deepop-cell/DSA/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deepop-cell/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
@@ -978,6 +980,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepop-cell/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/deepop-cell/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deepop-cell/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/deepop-cell/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
