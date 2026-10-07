@@ -189,6 +189,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/deepop-cell/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deepop-cell/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/deepop-cell/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepop-cell/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1615-maximal-network-rank](https://github.com/deepop-cell/DSA/tree/master/1615-maximal-network-rank) |
@@ -460,6 +461,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepop-cell/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepop-cell/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
@@ -1307,6 +1309,7 @@
 | [1424-diagonal-traverse-ii](https://github.com/deepop-cell/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1322,6 +1325,7 @@
 | [0399-evaluate-division](https://github.com/deepop-cell/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
@@ -1601,6 +1605,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 ## 0-1 Knapsack
 |  |
 | ------- |
