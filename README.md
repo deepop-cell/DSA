@@ -1608,6 +1608,7 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Least Common Multiple
 |  |
@@ -1705,4 +1706,8 @@
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/deepop-cell/DSA/tree/master/0792-number-of-matching-subsequences) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
