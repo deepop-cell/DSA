@@ -9,35 +9,38 @@
  */
 class Solution {
 public:
-bool ispath(TreeNode* root,int target,vector<TreeNode*>&path){
-    if(root==NULL){
+bool ispath(TreeNode* root,vector<TreeNode*>&path,TreeNode* target){
+    if(!root){
         return false;
     }
     path.push_back(root);
-    if(root->val==target){
+    if(root->val==target->val){
         return true;
     }
-    if(ispath(root->left,target,path) || ispath(root->right,target,path)){
+    bool l=ispath(root->left,path,target);
+    if(l){
         return true;
     }
-    path.pop_back();//bakctracking mai use ho jaygii..
+    bool r=ispath(root->right,path,target);
+    if(r){
+        return true;
+    }
+    path.pop_back();
     return false;
 }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL){
-            return NULL;
-        }
-        vector<TreeNode*>path1;
-        vector<TreeNode*>path2;
-        ispath(root,p->val,path1);
-        ispath(root,q->val,path2);
-        int i=0;
-        int j=0;
-        TreeNode* lca=NULL;
-        while(i < path1.size() && j < path2.size()&& path1[i]->val==path2[j]->val){
-            lca=path1[i];
-            i++;
-            j++;
+        vector<TreeNode*>p1;
+        vector<TreeNode*>p2;
+        ispath(root,p1,p);
+        ispath(root,p2,q);
+        TreeNode* lca=nullptr;
+        for(int i=0;i<min(p1.size(),p2.size());i++){
+            if(p1[i]==p2[i]){
+                lca=p1[i];
+            }
+            else{
+                break;
+            }
         }
         return lca;
     }
