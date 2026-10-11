@@ -11,31 +11,29 @@
  */
 class Solution {
 public:
-typedef long long ll;
-int dfs(TreeNode* root,unordered_map<long long,int>&sum){
-    if(!root){
-        return 0;
-    }
-    ll lsum=dfs(root->left,sum);
-    ll rsum=dfs(root->right,sum);
-    ll currsum=lsum+rsum+root->val;
-    sum[currsum]++;
-    return currsum;
-}
-    vector<int> findFrequentTreeSum(TreeNode* root) {
-        unordered_map<long long,int>sum;//ye sum and uski freq store krega
-        dfs(root,sum);
-        int mxfreq=-1;
-        for(auto it:sum){
-        mxfreq=max(mxfreq,it.second);
+    int dfs(TreeNode* root,unordered_map<int,int>&mp){
+        if(!root){
+            return 0;
         }
+        int lsum=dfs(root->left,mp);
+        int rsum=dfs(root->right,mp);
+        int currsum=lsum+rsum+root->val;
+        mp[currsum]++;
+        return currsum;
+    }
+    vector<int> findFrequentTreeSum(TreeNode* root) {
+        unordered_map<int,int>mp;
+        dfs(root,mp);
         vector<int>ans;
-        for(auto &it:sum){
-            if(it.second==mxfreq){
+        int mx=-1;
+        for(auto &it:mp){
+            mx=max(mx,it.second);
+        }
+        for(auto &it:mp){
+            if(it.second==mx){
                 ans.push_back(it.first);
             }
         }
         return ans;
-        
     }
 };
