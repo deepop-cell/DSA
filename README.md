@@ -87,6 +87,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -173,6 +174,7 @@
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepop-cell/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -215,6 +217,7 @@
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -251,6 +254,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepop-cell/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -320,6 +324,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepop-cell/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepop-cell/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepop-cell/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepop-cell/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepop-cell/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -551,6 +556,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepop-cell/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepop-cell/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepop-cell/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
