@@ -514,6 +514,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
@@ -778,6 +779,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/deepop-cell/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepop-cell/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -877,6 +879,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -1062,6 +1065,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepop-cell/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepop-cell/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1341,6 +1345,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
