@@ -314,6 +314,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/deepop-cell/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/deepop-cell/DSA/tree/master/2374-node-with-highest-edge-score) |
@@ -525,6 +526,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/deepop-cell/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1460,6 +1462,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/deepop-cell/DSA/tree/master/1291-sequential-digits) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepop-cell/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepop-cell/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepop-cell/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1708,10 +1711,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deepop-cell/DSA/tree/master/0187-repeated-dna-sequences) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deepop-cell/DSA/tree/master/0187-repeated-dna-sequences) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1752,6 +1757,7 @@
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/deepop-cell/DSA/tree/master/0792-number-of-matching-subsequences) |
+| [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
