@@ -1,25 +1,25 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-       int left=0;
-       int right=0;
-       int zeroes=0;
-       int ans=0;
-       for(right=0;right<nums.size();right++){
-        if(nums[right]==0){
-            zeroes++;
+        //we need to find the longest subarray with atmost k 0s.
+        int l=0;
+        int r=0;
+        int ans=-1;
+        int cnt=0;
+        for(r=0;r<nums.size();r++){
+        if(nums[r]==0){
+            cnt++;
         }
-        while(zeroes>k){//checks while(invalid)
-            if(nums[left]==0){
-                zeroes--;
+        while(cnt>k){
+            //while invalid shrink left.
+            if(nums[l]==0){
+                cnt--;
             }
-            left++;
+            l++;
         }
-        //after this we have a valid subarray. so find its size.
-        ans=max(ans,right-left+1);//r-l+1 is size of current window.
-
-
-       }
-       return ans;
+        //now we have a valid wiondow.
+    ans=max(ans,r-l+1);
+        }
+        return ans;
     }
 };
