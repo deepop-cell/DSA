@@ -600,6 +600,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepop-cell/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1504,6 +1505,7 @@
 | [0136-single-number](https://github.com/deepop-cell/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deepop-cell/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepop-cell/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/deepop-cell/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
