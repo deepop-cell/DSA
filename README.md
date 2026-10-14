@@ -1504,6 +1504,7 @@
 | [0526-beautiful-arrangement](https://github.com/deepop-cell/DSA/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepop-cell/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepop-cell/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
