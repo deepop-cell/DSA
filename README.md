@@ -1507,6 +1507,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepop-cell/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/deepop-cell/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepop-cell/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
