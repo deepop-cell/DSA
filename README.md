@@ -1106,6 +1106,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepop-cell/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepop-cell/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/deepop-cell/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/deepop-cell/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Eulerian Circuit
 |  |
@@ -1202,6 +1203,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepop-cell/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepop-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/deepop-cell/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepop-cell/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepop-cell/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
