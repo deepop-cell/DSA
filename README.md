@@ -1241,6 +1241,7 @@
 | [0322-coin-change](https://github.com/deepop-cell/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepop-cell/DSA/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/deepop-cell/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/deepop-cell/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/deepop-cell/DSA/tree/master/0377-combination-sum-iv) |
@@ -1502,6 +1503,7 @@
 | [0136-single-number](https://github.com/deepop-cell/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deepop-cell/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepop-cell/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0338-counting-bits](https://github.com/deepop-cell/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/deepop-cell/DSA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
