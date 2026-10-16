@@ -85,6 +85,7 @@
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -169,6 +170,7 @@
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepop-cell/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -548,6 +550,7 @@
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2574-left-and-right-sum-differences](https://github.com/deepop-cell/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepop-cell/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -875,6 +878,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1555,6 +1559,7 @@
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
+| [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepop-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepop-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
