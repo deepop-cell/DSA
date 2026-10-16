@@ -400,6 +400,7 @@
 | [0463-island-perimeter](https://github.com/deepop-cell/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/deepop-cell/DSA/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/deepop-cell/DSA/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/deepop-cell/DSA/tree/master/0498-diagonal-traverse) |
@@ -1169,6 +1170,7 @@
 | [0368-largest-divisible-subset](https://github.com/deepop-cell/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/deepop-cell/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/deepop-cell/DSA/tree/master/0441-arranging-coins) |
+| [0477-total-hamming-distance](https://github.com/deepop-cell/DSA/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/deepop-cell/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/deepop-cell/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -1515,6 +1517,7 @@
 | [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/deepop-cell/DSA/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/deepop-cell/DSA/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/deepop-cell/DSA/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/deepop-cell/DSA/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
