@@ -54,6 +54,7 @@
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/deepop-cell/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepop-cell/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -994,6 +995,7 @@
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/deepop-cell/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -1073,6 +1075,7 @@
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/deepop-cell/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/deepop-cell/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
