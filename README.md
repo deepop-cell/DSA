@@ -89,6 +89,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3249-count-the-number-of-good-nodes](https://github.com/deepop-cell/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
@@ -1018,6 +1019,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepop-cell/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3249-count-the-number-of-good-nodes](https://github.com/deepop-cell/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1347,6 +1349,7 @@
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -1704,6 +1707,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Design
 |  |
 | ------- |
