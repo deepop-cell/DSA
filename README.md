@@ -89,6 +89,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepop-cell/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3249-count-the-number-of-good-nodes](https://github.com/deepop-cell/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 | [3310-remove-methods-from-project](https://github.com/deepop-cell/DSA/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1011,6 +1012,7 @@
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepop-cell/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3249-count-the-number-of-good-nodes](https://github.com/deepop-cell/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
