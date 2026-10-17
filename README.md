@@ -471,6 +471,7 @@
 | [1049-last-stone-weight-ii](https://github.com/deepop-cell/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/deepop-cell/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/deepop-cell/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/deepop-cell/DSA/tree/master/1140-stone-game-ii) |
@@ -930,6 +931,7 @@
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepop-cell/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1095-find-in-mountain-array) |
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/deepop-cell/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1841,4 +1843,9 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepop-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
