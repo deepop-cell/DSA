@@ -453,6 +453,7 @@
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/deepop-cell/DSA/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/deepop-cell/DSA/tree/master/0849-maximize-distance-to-closest-person) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deepop-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/deepop-cell/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/deepop-cell/DSA/tree/master/0879-profitable-schemes) |
@@ -925,6 +926,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/deepop-cell/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/deepop-cell/DSA/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deepop-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/deepop-cell/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepop-cell/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepop-cell/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1835,4 +1837,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/deepop-cell/DSA/tree/master/0785-is-graph-bipartite) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deepop-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
