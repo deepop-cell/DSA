@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        //state defintion.. dp[i][j]=lis uptill jth index..
+        //state defintion.. dp[j]=lis uptill jth index..
         int n=nums.size();
         vector<int>dp(n,1);
         int maxlis=1;
