@@ -386,6 +386,7 @@
 | [0090-subsets-ii](https://github.com/deepop-cell/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepop-cell/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/deepop-cell/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/deepop-cell/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/deepop-cell/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/deepop-cell/DSA/tree/master/0136-single-number) |
@@ -1302,6 +1303,7 @@
 | [0091-decode-ways](https://github.com/deepop-cell/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/deepop-cell/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/deepop-cell/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/deepop-cell/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/deepop-cell/DSA/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/deepop-cell/DSA/tree/master/0174-dungeon-game) |
