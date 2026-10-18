@@ -557,6 +557,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/deepop-cell/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/deepop-cell/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
@@ -1264,6 +1265,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1557,6 +1559,7 @@
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepop-cell/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepop-cell/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
@@ -1578,6 +1581,7 @@
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepop-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1630,6 +1634,7 @@
 | [1094-car-pooling](https://github.com/deepop-cell/DSA/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/deepop-cell/DSA/tree/master/1706-where-will-the-ball-fall) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepop-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepop-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
