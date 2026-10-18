@@ -33,6 +33,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/deepop-cell/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/deepop-cell/DSA/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/deepop-cell/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/deepop-cell/DSA/tree/master/0684-redundant-connection) |
@@ -1000,6 +1001,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/deepop-cell/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/deepop-cell/DSA/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/deepop-cell/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepop-cell/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1082,6 +1084,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/deepop-cell/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepop-cell/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/deepop-cell/DSA/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/deepop-cell/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepop-cell/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1718,6 +1721,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/deepop-cell/DSA/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/deepop-cell/DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0563-binary-tree-tilt](https://github.com/deepop-cell/DSA/tree/master/0563-binary-tree-tilt) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
