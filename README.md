@@ -1885,4 +1885,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0654-maximum-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
