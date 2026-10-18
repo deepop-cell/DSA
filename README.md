@@ -263,6 +263,7 @@
 | [1267-count-servers-that-communicate](https://github.com/deepop-cell/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepop-cell/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepop-cell/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -516,6 +517,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/deepop-cell/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
@@ -634,6 +636,7 @@
 | [0191-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -1040,6 +1043,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1067,6 +1071,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepop-cell/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/deepop-cell/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1125,6 +1130,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1246,6 +1252,7 @@
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepop-cell/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1627-graph-connectivity-with-threshold](https://github.com/deepop-cell/DSA/tree/master/1627-graph-connectivity-with-threshold) |
 | [1686-stone-game-vi](https://github.com/deepop-cell/DSA/tree/master/1686-stone-game-vi) |
@@ -1370,6 +1377,7 @@
 | [1510-stone-game-iv](https://github.com/deepop-cell/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepop-cell/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/deepop-cell/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/deepop-cell/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepop-cell/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepop-cell/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1416,6 +1424,7 @@
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/deepop-cell/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Two Pointers
 |  |
@@ -1544,6 +1553,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/deepop-cell/DSA/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/deepop-cell/DSA/tree/master/1201-ugly-number-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepop-cell/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepop-cell/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1889,4 +1899,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/deepop-cell/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
