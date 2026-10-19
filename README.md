@@ -198,6 +198,7 @@
 | [3493-properties-graph](https://github.com/deepop-cell/DSA/tree/master/3493-properties-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepop-cell/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/deepop-cell/DSA/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1074,6 +1075,7 @@
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepop-cell/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepop-cell/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/deepop-cell/DSA/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
