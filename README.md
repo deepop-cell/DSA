@@ -548,6 +548,7 @@
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/deepop-cell/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepop-cell/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepop-cell/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -846,6 +847,7 @@
 | [1943-describe-the-painting](https://github.com/deepop-cell/DSA/tree/master/1943-describe-the-painting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/deepop-cell/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepop-cell/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepop-cell/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/deepop-cell/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -958,6 +960,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/deepop-cell/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepop-cell/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
