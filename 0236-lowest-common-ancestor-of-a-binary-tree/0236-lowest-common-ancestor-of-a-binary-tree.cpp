@@ -9,39 +9,39 @@
  */
 class Solution {
 public:
-bool ispath(TreeNode* root,vector<TreeNode*>&path,TreeNode* target){
-    if(!root){
+    bool ispath(TreeNode* root,vector<TreeNode*>&path,int target){
+        if(!root){
+            return false;
+        }
+        path.push_back(root);
+        if(root->val==target){
+            return true;
+        }
+        //we have two options to go /
+        if(ispath(root->left,path,target)){
+            return true;
+        }
+        if(ispath(root->right,path,target)){
+            return true;
+        }
+        path.pop_back();
         return false;
     }
-    path.push_back(root);
-    if(root->val==target->val){
-        return true;
-    }
-    bool l=ispath(root->left,path,target);
-    if(l){
-        return true;
-    }
-    bool r=ispath(root->right,path,target);
-    if(r){
-        return true;
-    }
-    path.pop_back();
-    return false;
-}
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*>p1;
-        vector<TreeNode*>p2;
-        ispath(root,p1,p);
-        ispath(root,p2,q);
-        TreeNode* lca=nullptr;
-        for(int i=0;i<min(p1.size(),p2.size());i++){
-            if(p1[i]==p2[i]){
-                lca=p1[i];
+        vector<TreeNode*>path1;
+        vector<TreeNode*>path2;
+        ispath(root,path1,p->val);
+        ispath(root,path2,q->val);
+        TreeNode* LCA=NULL;
+        for(int i=0;i<min(path1.size(),path2.size());i++){
+            if(path1[i]==path2[i]){
+                LCA=path1[i];
             }
             else{
                 break;
             }
         }
-        return lca;
+        return LCA;
+
     }
 };
