@@ -83,6 +83,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2097-valid-arrangement-of-pairs](https://github.com/deepop-cell/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -793,6 +794,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepop-cell/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/deepop-cell/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepop-cell/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1059,6 +1061,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepop-cell/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1148,6 +1151,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepop-cell/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepop-cell/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1798,6 +1802,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepop-cell/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepop-cell/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Least Common Multiple
 |  |
 | ------- |
@@ -1904,6 +1909,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepop-cell/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepop-cell/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bipartite Graph
 |  |
 | ------- |
