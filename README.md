@@ -58,6 +58,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/deepop-cell/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/deepop-cell/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/deepop-cell/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -1047,6 +1048,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/deepop-cell/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/deepop-cell/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -1141,6 +1143,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/deepop-cell/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/deepop-cell/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -1385,6 +1388,7 @@
 | [0926-flip-string-to-monotone-increasing](https://github.com/deepop-cell/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/deepop-cell/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/deepop-cell/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/deepop-cell/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/deepop-cell/DSA/tree/master/1048-longest-string-chain) |
@@ -1793,6 +1797,7 @@
 | [0563-binary-tree-tilt](https://github.com/deepop-cell/DSA/tree/master/0563-binary-tree-tilt) |
 | [0834-sum-of-distances-in-tree](https://github.com/deepop-cell/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepop-cell/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepop-cell/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
