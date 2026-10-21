@@ -34,7 +34,7 @@ public:
             temp=temp->right;
             i++;
         }
-        inorder.back()->left=NULL;
+        inorder.back()->left=NULL;//kyuki loop last wale ko handle nahi kr rha ahi to uske liye ey 
         inorder.back()->right=NULL;
         return head;
     }
