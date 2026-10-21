@@ -86,6 +86,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deepop-cell/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
@@ -181,6 +182,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deepop-cell/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepop-cell/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -342,6 +344,7 @@
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepop-cell/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepop-cell/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/deepop-cell/DSA/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deepop-cell/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -691,6 +694,7 @@
 | [1267-count-servers-that-communicate](https://github.com/deepop-cell/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1854-maximum-population-year](https://github.com/deepop-cell/DSA/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/deepop-cell/DSA/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deepop-cell/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -1083,6 +1087,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepop-cell/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/deepop-cell/DSA/tree/master/1609-even-odd-tree) |
@@ -1826,6 +1831,7 @@
 | [0968-binary-tree-cameras](https://github.com/deepop-cell/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/deepop-cell/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepop-cell/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
