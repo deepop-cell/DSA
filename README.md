@@ -493,6 +493,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/deepop-cell/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/deepop-cell/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepop-cell/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deepop-cell/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -926,6 +927,7 @@
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepop-cell/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/deepop-cell/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/deepop-cell/DSA/tree/master/1254-number-of-closed-islands) |
@@ -1608,6 +1610,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepop-cell/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/deepop-cell/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/deepop-cell/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/deepop-cell/DSA/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1665,6 +1668,7 @@
 | [0477-total-hamming-distance](https://github.com/deepop-cell/DSA/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/deepop-cell/DSA/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepop-cell/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepop-cell/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1982,4 +1986,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
