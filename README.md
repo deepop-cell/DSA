@@ -150,6 +150,7 @@
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepop-cell/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/deepop-cell/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -477,6 +478,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/deepop-cell/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/deepop-cell/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/deepop-cell/DSA/tree/master/0813-largest-sum-of-averages) |
@@ -925,6 +927,7 @@
 | [0695-max-area-of-island](https://github.com/deepop-cell/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepop-cell/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/deepop-cell/DSA/tree/master/0766-toeplitz-matrix) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/deepop-cell/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/deepop-cell/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/deepop-cell/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -1409,6 +1412,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepop-cell/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/deepop-cell/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepop-cell/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/deepop-cell/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/deepop-cell/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -1489,6 +1493,7 @@
 | [0397-integer-replacement](https://github.com/deepop-cell/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/deepop-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [1137-n-th-tribonacci-number](https://github.com/deepop-cell/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deepop-cell/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepop-cell/DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1609,6 +1614,7 @@
 | [0494-target-sum](https://github.com/deepop-cell/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/deepop-cell/DSA/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/deepop-cell/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepop-cell/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/deepop-cell/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
@@ -1772,6 +1778,7 @@
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/deepop-cell/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/deepop-cell/DSA/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1991,4 +1998,12 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/deepop-cell/DSA/tree/master/0980-unique-paths-iii) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
