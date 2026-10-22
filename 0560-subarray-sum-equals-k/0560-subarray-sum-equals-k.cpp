@@ -1,18 +1,18 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int sum=0;
-        int count=0;
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         mp[0]=1;
-        for(int &x:nums){
-            sum+=x;
-            if(mp.find(sum-k)!=mp.end()){
-                //means an oldsum such that sum-oldsum==k exissts, then wo jitni baar aya hoga past mai hum utne subarrays bana skte hai.
-                count+=mp[sum-k];
-            }
-            mp[sum]++;
+        int csum=0;
+        int cnt=0;
+        for(int i=0;i<nums.size();i++){
+         csum+=nums[i];
+         int need=csum-k;
+         if(mp.find(need)!=mp.end()){
+          cnt+=mp[need];
+         }
+         mp[csum]++;
         }
-        return count;
+        return cnt;
     }
 };
