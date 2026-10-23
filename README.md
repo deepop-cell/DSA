@@ -101,6 +101,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepop-cell/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/deepop-cell/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -604,6 +605,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/deepop-cell/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2574-left-and-right-sum-differences](https://github.com/deepop-cell/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -1109,6 +1111,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepop-cell/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/deepop-cell/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/deepop-cell/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepop-cell/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -1468,6 +1471,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepop-cell/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/deepop-cell/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/deepop-cell/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepop-cell/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepop-cell/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1853,6 +1857,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/deepop-cell/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/deepop-cell/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepop-cell/DSA/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/deepop-cell/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/deepop-cell/DSA/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Design
 |  |
