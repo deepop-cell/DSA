@@ -535,6 +535,7 @@
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/deepop-cell/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/deepop-cell/DSA/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/deepop-cell/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -876,6 +877,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/deepop-cell/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepop-cell/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/deepop-cell/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1424-diagonal-traverse-ii](https://github.com/deepop-cell/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepop-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepop-cell/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1224,6 +1226,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/deepop-cell/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/deepop-cell/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/deepop-cell/DSA/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/deepop-cell/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepop-cell/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepop-cell/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/deepop-cell/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
