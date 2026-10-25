@@ -1,43 +1,40 @@
 class Solution {
-public:
-int m,n;
+public:  
 vector<vector<int>>directions={{1,0},{-1,0},{0,1},{0,-1}};
-   bool solve(int i,int j,int k,string&word,vector<vector<char>>& board,vector<vector<bool>>&vis){
-    if(k==word.length()){
-        return true;
-    }
-    for(auto &dir:directions){
-       int  i_n=(i+dir[0]);
-       int  j_n=(j+dir[1]);
-        if(i_n<0 || i_n>=m || j_n<0 || j_n>=n || vis[i_n][j_n]){
-            continue;
+    bool solve(int r,int c, int i,vector<vector<char>>& grid,string &word,vector<vector<bool>>&vis){
+        if(i==word.length()-1){
+            return true;
         }
-        if(board[i_n][j_n]==word[k]){
-            vis[i_n][j_n]=true;
-            bool x=solve(i_n,j_n,k+1,word,board,vis);
-            if(x){
-                return true;
+        for(auto &dir:directions){
+            int newx=r+dir[0];
+            int newy=c+dir[1];
+            if(newx<0 || newy<0 || newx>=grid.size() || newy>=grid[0].size() || grid[newx][newy]!=word[i+1] || vis[newx][newy]){
+                //out of bounds ya to mismatch ya to already visited
+                continue;
             }
-            vis[i_n][j_n]=false;//backtracking.
+            else{
+                vis[newx][newy]=true;
+                if(solve(newx,newy,i+1,grid,word,vis))return true; 
+                vis[newx][newy]=false;//backtracking      
+            }
         }
+        return false;
+
     }
-    return false;
-   }
     bool exist(vector<vector<char>>& board, string word) {
-        m=board.size();
-        n=board[0].size();
+        int m=board.size();
+        int n=board[0].size();
         vector<vector<bool>>vis(m,vector<bool>(n,false));
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(board[i][j]==word[0]){
-                    vis[i][j]=true;//starting ko mark kr rha hu .
-                    if(solve(i,j,1,word,board,vis)){
-                        return true;
-                    }
-                    vis[i][j]=false;//undo
+                    vis[i][j]=true;
+                    if(solve(i,j,0,board,word,vis))return true;
+                    vis[i][j]=false;
                 }
             }
         }
         return false;
+        
     }
 };
