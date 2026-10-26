@@ -629,6 +629,7 @@
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/deepop-cell/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/deepop-cell/DSA/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/deepop-cell/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3248-snake-in-matrix](https://github.com/deepop-cell/DSA/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -836,6 +837,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepop-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepop-cell/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3248-snake-in-matrix](https://github.com/deepop-cell/DSA/tree/master/3248-snake-in-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepop-cell/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepop-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -1727,6 +1729,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepop-cell/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/deepop-cell/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepop-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3248-snake-in-matrix](https://github.com/deepop-cell/DSA/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepop-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
