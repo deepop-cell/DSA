@@ -387,6 +387,7 @@
 | [3731-find-missing-elements](https://github.com/deepop-cell/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/deepop-cell/DSA/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Array
 |  |
 | ------- |
@@ -659,6 +660,7 @@
 | [3731-find-missing-elements](https://github.com/deepop-cell/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/deepop-cell/DSA/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepop-cell/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/deepop-cell/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1255,6 +1257,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepop-cell/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/deepop-cell/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/deepop-cell/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/deepop-cell/DSA/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Eulerian Circuit
 |  |
 | ------- |
