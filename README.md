@@ -197,6 +197,7 @@
 | [2059-minimum-operations-to-convert-number](https://github.com/deepop-cell/DSA/tree/master/2059-minimum-operations-to-convert-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -251,6 +252,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/deepop-cell/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepop-cell/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/deepop-cell/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepop-cell/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/deepop-cell/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -605,6 +607,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepop-cell/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -976,6 +979,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepop-cell/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/deepop-cell/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepop-cell/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/deepop-cell/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/deepop-cell/DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/deepop-cell/DSA/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -1580,6 +1584,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deepop-cell/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/deepop-cell/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2285-maximum-total-importance-of-roads](https://github.com/deepop-cell/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deepop-cell/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepop-cell/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepop-cell/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1595,6 +1600,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepop-cell/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepop-cell/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3123-find-edges-in-shortest-paths](https://github.com/deepop-cell/DSA/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepop-cell/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deepop-cell/DSA/tree/master/3620-network-recovery-pathways) |
@@ -1934,6 +1940,7 @@
 | [0743-network-delay-time](https://github.com/deepop-cell/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/deepop-cell/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/deepop-cell/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -2057,4 +2064,8 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/deepop-cell/DSA/tree/master/0773-sliding-puzzle) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/deepop-cell/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
