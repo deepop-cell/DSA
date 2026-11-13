@@ -669,6 +669,7 @@
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deepop-cell/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepop-cell/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deepop-cell/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepop-cell/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/deepop-cell/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -729,6 +730,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/deepop-cell/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/deepop-cell/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepop-cell/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/deepop-cell/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1351,6 +1353,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/deepop-cell/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -1680,6 +1683,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepop-cell/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepop-cell/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepop-cell/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1689,6 +1693,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/deepop-cell/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepop-cell/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepop-cell/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -2037,10 +2042,12 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepop-cell/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Graph Coloring
 |  |
 | ------- |
