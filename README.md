@@ -667,6 +667,7 @@
 | [3355-zero-array-transformation-i](https://github.com/deepop-cell/DSA/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepop-cell/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deepop-cell/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepop-cell/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -797,6 +798,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/deepop-cell/DSA/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepop-cell/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3698-split-array-with-minimum-difference](https://github.com/deepop-cell/DSA/tree/master/3698-split-array-with-minimum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepop-cell/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepop-cell/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1353,6 +1355,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepop-cell/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepop-cell/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/deepop-cell/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
