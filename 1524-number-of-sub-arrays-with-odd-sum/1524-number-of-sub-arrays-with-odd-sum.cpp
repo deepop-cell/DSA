@@ -1,24 +1,27 @@
 class Solution {
-    typedef long long ll;
 public:
-int MOD = 1e9 + 7;
-    int numOfSubarrays(vector<int>& arr) {
-        int n=arr.size();
-        ll oddsum=0;
-        ll evensum=1;
-        ll sum=0;
-        ll count=0;
-        for(int i=0;i<n;i++){
-            sum+=arr[i];
-            if(sum%2==0){
-                evensum++;
-                count+=oddsum;
+int mod=1e9+7;
+    int numOfSubarrays(vector<int>& nums) {
+        int evens=0;
+        int odds=0;
+        int csum=0;
+        long long ans=0;
+        for(int i=0;i<nums.size();i++){
+            csum+=nums[i];
+            if(csum%2==0){
+                ans=(ans+odds)%mod;
             }
             else{
-                oddsum++;
-                count+=evensum;
+                ans=(ans +(evens)+1)%mod;
             }
+            if(csum%2==0){
+                evens++;
+            }
+            else{
+                odds++;
+            }
+
         }
-        return count%MOD;
+        return ans%mod;
     }
 };
