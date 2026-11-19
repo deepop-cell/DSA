@@ -1,20 +1,20 @@
 class Solution {
 public:
-int dp[101];
-    int solve(int i,vector<int>&nums){
-        if(i>=nums.size()){
-            return 0;
-        }
-        if(dp[i]!=-1){
-            return dp[i];
-        }
-        //now at current index we have two choices. ya to isse rob kro ya to mat kro
-        int rob=nums[i]+solve(i+2,nums);
-        int skip=solve(i+1,nums);
-        return dp[i]=max(rob,skip);
+long long dp[101];
+   long long solve(int i, vector<int>&nums){
+    if(i>=nums.size()){
+        return 0;
     }
+    if(dp[i]!=-1){
+        return dp[i];
+    }
+    long long rob=nums[i]+solve(i+2,nums);
+    long long skip=solve(i+1,nums);
+    return dp[i]=max(skip,rob);
+   }
     int rob(vector<int>& nums) {
         memset(dp,-1,sizeof(dp));
+        //see at each house we have options to either rob it or skip it / so we can write a dp thing 
         return solve(0,nums);
     }
 };
