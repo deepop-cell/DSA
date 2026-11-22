@@ -878,6 +878,7 @@
 | [1987-number-of-unique-good-subsequences](https://github.com/deepop-cell/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/deepop-cell/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/deepop-cell/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/deepop-cell/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepop-cell/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepop-cell/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/deepop-cell/DSA/tree/master/2381-shifting-letters-ii) |
