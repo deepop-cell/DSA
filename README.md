@@ -673,6 +673,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/deepop-cell/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/deepop-cell/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepop-cell/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepop-cell/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deepop-cell/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepop-cell/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -1369,6 +1370,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepop-cell/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/deepop-cell/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepop-cell/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepop-cell/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/deepop-cell/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/deepop-cell/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -1425,6 +1427,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepop-cell/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepop-cell/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/deepop-cell/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepop-cell/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1757,6 +1760,7 @@
 | [2261-k-divisible-elements-subarrays](https://github.com/deepop-cell/DSA/tree/master/2261-k-divisible-elements-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepop-cell/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepop-cell/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepop-cell/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepop-cell/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepop-cell/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepop-cell/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1773,6 +1777,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepop-cell/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepop-cell/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepop-cell/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepop-cell/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepop-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepop-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
